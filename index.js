@@ -6,7 +6,8 @@ function select(selector) {
 }
 
 let projectName = 'Super Pizza Place';
-let address = '123 Henlow Bay';
+let address = '444 - 123 Henlow Bay';
+let postalCode = 'R3A 0H9';
 
 function printMenu() {
   // fetch the menu
